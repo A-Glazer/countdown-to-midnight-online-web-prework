@@ -17,3 +17,13 @@ def countdown_with_sleep (number)
       end
    "HAPPY NEW YEAR!"
 end
+
+#other persons code thats wrong
+#def countdown(x)
+  #x = 10 
+  #while x < 10 
+  #x -= 1
+  #puts "#{x} SECOND(S)!"
+#end
+#end
+ #"HAPPY NEW YEAR!"
